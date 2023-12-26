@@ -6,7 +6,7 @@ function ThisKey(){
 ThisKey()//undefined if we use use strict but if we dont then value refers to window object
 
 //this keyword for objects...
-let entered=prompt("Enter your born year");
+let entered=prompt("Enter your born year");//prompt is function of vanilla js so it will only works in engines like chrome v8
 const person = {
     year:entered,
     calcAge:function calcAge(){
