@@ -27,3 +27,4 @@ const interval = setInterval(() => {
         clearInterval(interval)
     }
 },500);
+//jump to 14.js
