@@ -3,7 +3,7 @@
 console.log(0||3);//3
 console.log('Dj'||'');//Dj
 console.log(undefined||null);//null
-//AND operator
+//21.js is for AND operator
 //It only return falsy value, otherwise it will return the first operand
 console.log(0&&3);//0
 console.log('Dj'&&123456789);//123456789
