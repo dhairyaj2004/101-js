@@ -1,3 +1,4 @@
+//SHALLOW and DEEP copy in Js
 let original={
     name:"DJ",
     age:19,
