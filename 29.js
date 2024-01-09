@@ -18,3 +18,4 @@ let deep=JSON.parse(JSON.stringify(original))//parse and stringify is needed for
 deep.location.native="Darbhavati"
 console.log(deep) 
 console.log(original)
+//30.js is theory so jump to 31.js
