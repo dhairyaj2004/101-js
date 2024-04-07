@@ -11,7 +11,7 @@ function validation(num){
         console.log("Spam Call")
     }
 }
-console.log(validation("+917861010539"))
+console.log(validation("+9178610105395555555555"))
 //for good user experience...
 // let num=prompt("enter the number with country code")
 // console.log(validation(num))
