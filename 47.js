@@ -23,4 +23,4 @@ let rect2={
 console.log(rect.getArea())
 console.log(rect2.getPerimeter())
 //for increasing this easiness we have ti use classess...class is factory to create objects.
-//refer 47_b.js
+//refer 48.js
