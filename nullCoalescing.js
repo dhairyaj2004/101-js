@@ -1,4 +1,4 @@
-//NULL COALESCING OPERATOR
+//NULL COALESCING OPERATOR->logical operator that returns its right-hand side operand when its left-hand side operand is null or undefined , and otherwise returns its left-hand side operand.
 let guests=0;
 let numguests=guests||10;
 console.log(numguests)//10 
